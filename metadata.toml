@@ -1,0 +1,10 @@
+[repo]
+name = "assets"
+type = "org"
+language = "other"
+tier = "tooling"
+lifecycle = "to-delete"
+
+[org]
+owner = "sigil"
+visibility = "private"
