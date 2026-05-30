@@ -3,7 +3,7 @@ name = "assets"
 type = "org"
 language = "other"
 tier = "tooling"
-lifecycle = "to-delete"
+lifecycle = "archived"
 
 [org]
 owner = "sigil"
